@@ -1,2 +1,2 @@
 # TurmaANicoly
-Atividade prática, página de perfil
+Atividade prática, página de perfil, com tabela e formulário.
